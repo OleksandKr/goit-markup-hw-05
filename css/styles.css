@@ -670,7 +670,7 @@ img {
 .modal-close:hover,
 .modal-close:focus {
   background-color: #404bbf;
-  border: 0;
+  border: ;
 }
 
 .modal-close-icon {
